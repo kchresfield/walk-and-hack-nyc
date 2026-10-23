@@ -17,4 +17,7 @@ setup.js
 SETUP.md
 show-intelligence.js
 twilio-api.js
-helpers.js
+helpers.jsdata/
+
+AGENTS.md
+bin/
